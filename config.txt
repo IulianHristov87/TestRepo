@@ -1,5 +1,2 @@
-Nikolay
-Daniela add
-
 Name: Denis size = over 100000
-
+Name: Nick, size = 888, email = nick@dir.bg
