@@ -1,1 +1,1 @@
-Nikolay
+name = pavel size = 9000 
