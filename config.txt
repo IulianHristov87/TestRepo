@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Nikolay
+=======
+<<<<<<< HEAD
+name = pavel size = 9000 
+=======
+Name: Denis size = over 100000
+Name: Nick, size = 888, email = nick@dir.bg
+>>>>>>> origin/master
